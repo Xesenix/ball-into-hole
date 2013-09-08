@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+	<head>
+		<title>ball-into-hole</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<style>
+			canvas {
+				cursor: default;
+				outline: none;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<div align="center" id="embed-pl.xesenix.games.ball_into_hole.GwtDefinition"></div>
+		<script type="text/javascript" src="pl.xesenix.games.ball_into_hole.GwtDefinition/pl.xesenix.games.ball_into_hole.GwtDefinition.nocache.js"></script>
+	</body>
+	
+	<script>
+		function handleMouseDown(evt) {
+		  evt.preventDefault();
+		  evt.stopPropagation();
+		  evt.target.style.cursor = 'default';
+		}
+		
+		function handleMouseUp(evt) {
+		  evt.preventDefault();
+		  evt.stopPropagation();
+		  evt.target.style.cursor = '';
+		}
+		
+		document.getElementById('embed-pl.xesenix.games.ball_into_hole.GwtDefinition').addEventListener('mousedown', handleMouseDown, false);
+		document.getElementById('embed-pl.xesenix.games.ball_into_hole.GwtDefinition').addEventListener('mouseup', handleMouseUp, false);
+	</script>
+</html>
