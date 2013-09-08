@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ball-into-hole-android/src"/>
+	<classpathentry kind="src" path="ball-into-hole-desktop/src"/>
+	<classpathentry kind="src" path="ball-into-hole-html/src"/>
+	<classpathentry kind="src" path="ball-into-hole/src"/>
+	<classpathentry kind="lib" path="ball-into-hole-android/libs/gdx-backend-android-sources.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole-android/libs/gdx-backend-android.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole-desktop/libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole-desktop/libs/gdx-backend-lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole-desktop/libs/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole-desktop/libs/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole-html/war/WEB-INF/lib/gdx-backend-gwt-sources.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole-html/war/WEB-INF/lib/gdx-backend-gwt.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole/libs/bodyeditor-loader-sources.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole/libs/bodyeditor-loader.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole/libs/gdx.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="ball-into-hole/libs/tween-engine-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

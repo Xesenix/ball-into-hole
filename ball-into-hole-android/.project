@@ -3,6 +3,7 @@
 	<name>ball-into-hole-android</name>
 	<comment></comment>
 	<projects>
+		<project>ball-into-hole</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
